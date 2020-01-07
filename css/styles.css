@@ -1,0 +1,19 @@
+h1 {
+    color: #4e9c2d;
+    text-align: center;
+    font-size: 40px;
+}
+ul {
+    font-style: oblique;
+    line-height: 1cm;
+    font-size: 20px;
+    font-weight: bold;
+}
+h2 {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    line-height: 1cm;
+}
+body {
+    background-color: #58735f;
+}
